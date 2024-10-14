@@ -1,6 +1,3 @@
-**ShibuThakur GitHub Profile**
-==========================
-
 # Hey there, I'm Shivam Thakur! 🚀
 
 ## **The Origin Story**
