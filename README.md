@@ -1,4 +1,4 @@
-**Enhanced GitHub Profile**
+**ShibuThakur GitHub Profile**
 ==========================
 
 # Hey there, I'm Shivam Thakur! 🚀
