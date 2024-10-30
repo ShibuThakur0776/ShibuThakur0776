@@ -35,16 +35,14 @@ If you want to collaborate on saving the world or just talk tech, hit me up!
 [![GitHub][6.2]][6]
 
 <!-- Icons -->
-[3.2]: https://raw.githubusercontent.com/shivamthakur0776/shivamthakur0776/main/icons/linkedin.png
+[3.2]: ![image](https://github.com/user-attachments/assets/2bd7607f-a6ce-476f-b5ba-1c1c50daca35)
+
 [6.2]: https://raw.githubusercontent.com/shivamthakur0776/shivamthakur0776/main/icons/github.png
 
 <!-- Links to your social media accounts -->
-[3]: https://www.linkedin.com/in/shivamthakur0776/
-[6]: https://github.com/shivamthakur0776
+[3]:(https://www.linkedin.com/in/shivam-thakur-86011427b/)
+[6]:(https://github.com/ShibuThakur0776)
 
-Please note that you need to replace the URLs of LinkedIn and GitHub icons with the correct paths to your icons. Also, update the links to your social media accounts.
-
-You can also add some personal projects or contributions you'd like to showcase in your profile, and include a brief description for each. This will give potential collaborators or recruiters a good idea of your skills and interests.
 
 Example:
 ### **Showcased Projects**
