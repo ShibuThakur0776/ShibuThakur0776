@@ -32,7 +32,7 @@ Just a coder by day, secret superhero by night 🦸‍♂️. I harness the powe
 If you want to collaborate on saving the world or just talk tech, hit me up!
 
 [![LinkedIn](https://github.com/user-attachments/assets/2bd7607f-a6ce-476f-b5ba-1c1c50daca35)](https://www.linkedin.com/in/shivam-thakur-86011427b/)
-[![GitHub](https://raw.githubusercontent.com/shivamthakur0776/shivamthakur0776/main/icons/github.png)](https://github.com/ShibuThakur0776)
+[![GitHub](https://icons8.com/icon/3tC9EQumUAuq/github)](https://github.com/ShibuThakur0776)
 
 ## **Showcased Projects**
 
