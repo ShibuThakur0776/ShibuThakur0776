@@ -16,7 +16,7 @@ Just a coder by day, secret superhero by night 🦸‍♂️. I harness the powe
 
 ### **Personal Stats**
 
-- Pronouns: He/Him (but during full moons, I'm "Your Highness") 😄
+- Pronouns: He/Him (but during full moons, I'm your highness 😄)
 - Fun fact: I can type 100 words per minute, but only in the presence of pizza ⚡
 
 ## **My Super Stats**
@@ -31,21 +31,10 @@ Just a coder by day, secret superhero by night 🦸‍♂️. I harness the powe
 
 If you want to collaborate on saving the world or just talk tech, hit me up!
 
-[![LinkedIn][3.2]][3]
-[![GitHub][6.2]][6]
+[![LinkedIn](https://github.com/user-attachments/assets/2bd7607f-a6ce-476f-b5ba-1c1c50daca35)](https://www.linkedin.com/in/shivam-thakur-86011427b/)
+[![GitHub](https://raw.githubusercontent.com/shivamthakur0776/shivamthakur0776/main/icons/github.png)](https://github.com/ShibuThakur0776)
 
-<!-- Icons -->
-[3.2]: ![image](https://github.com/user-attachments/assets/2bd7607f-a6ce-476f-b5ba-1c1c50daca35)
-
-[6.2]: https://raw.githubusercontent.com/shivamthakur0776/shivamthakur0776/main/icons/github.png
-
-<!-- Links to your social media accounts -->
-[3]:(https://www.linkedin.com/in/shivam-thakur-86011427b/)
-[6]:(https://github.com/ShibuThakur0776)
-
-
-Example:
-### **Showcased Projects**
+## **Showcased Projects**
 
 - [Project 1](https://github.com/shivamthakur0776/project1) - A brief description of the project.
 - [Project 2](https://github.com/shivamthakur0776/project2) - A brief description of the project.
